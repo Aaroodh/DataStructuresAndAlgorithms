@@ -60,7 +60,6 @@ public class App {
         return ans.toString();
     }
 
-
     public static int findNth(int n){
         int[] dp =new int[n+1];
         dp[0]=0;
